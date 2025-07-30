@@ -42,7 +42,7 @@ It demonstrates the use of the flutter_tts package, dynamic voice switching, err
   - Pressing Play reads the sentence
   - In case of English, voice alternates between male and female
   - For other languages (if only one voice), it defaults and displays:  
-    _“Only default male/female voice supported”_
+    _“Only default one voice supported”_
 
 - **SnackBar Error Handling**  
   If selected language isn’t supported, message displays:  
