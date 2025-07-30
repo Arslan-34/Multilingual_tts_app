@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Multilingual TTS Demo',
+      title: 'Multilingual TTS Demo by Arslan',
       theme: ThemeData(
         primarySwatch: Colors.deepPurple,
       ),
