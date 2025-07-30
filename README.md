@@ -69,17 +69,29 @@ The project is clean, modular, and meets all evaluation points mentioned in the 
 ## Folder Structure
 
 multilingual_tts_app/
+
 ├── lib/
+
 │ ├── widgets/
+
 │ │ ├── language_dropdown.dart
+
 │ │ ├── input_text_field.dart
+
 │ │ └── play_button.dart
+
 │ ├── services/
+
 │ │ └── tts_service.dart
+
 │ ├── screens/
+
 │ │ └── tts_page.dart
+
 │ └── main.dart
+
 ├── pubspec.yaml
+
 └── README.md
 
 ## Limitations
