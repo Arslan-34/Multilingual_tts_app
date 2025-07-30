@@ -4,8 +4,8 @@ A Flutter-based mobile application designed to demonstrate multilingual Text-to-
 
 ## Project Overview
 
-This Flutter application was built as part of a multilingual Text-to-Speech (TTS) demo task.
-It demonstrates the use of the flutter_tts package, dynamic voice switching, error handling, and multilingual support — all implemented using clean, modular Flutter code.
+This Flutter application was built as a multilingual Text-to-Speech (TTS) App.
+It demonstrates the use of the flutter_tts package, dynamic voice switching, error handling, and multilingual support, all implemented using clean, modular Flutter code.
 
 ## Key Features:
 
@@ -117,4 +117,4 @@ Email: manarslan4@gmail.com
 Bahria University Islamabad
 
 ## License
-This app is built for trial task learning purposes only 
+This app is built for learning purposes only.
