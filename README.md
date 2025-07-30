@@ -4,17 +4,21 @@ A Flutter-based mobile application designed to demonstrate multilingual Text-to-
 
 ## Project Overview
 
-This app was developed as a **trial task** for the Flutter Developer position at **Logicanza**, following all the requirements shared via email.  
-Its purpose is to showcase the use of third-party packages ('flutter_tts'), language handling, and device compatibility using clean Flutter code.
+This Flutter application was built as part of a multilingual Text-to-Speech (TTS) demo task.
+It demonstrates the use of the flutter_tts package, dynamic voice switching, error handling, and multilingual support — all implemented using clean, modular Flutter code.
 
-The application allows users to:
+## Key Features:
 
-- Select a language (e.g., English, French, Spanish, German)
-- Enter a custom sentence
-- Press "Play" to hear the sentence in the selected language
-- Toggle between male and female voice (only if both are available for that language)
+- Language selection (English, French, Spanish, German).
 
-The project is clean, modular, and meets all evaluation points mentioned in the instructions.
+- Real-time voice feedback for entered text.
+
+- Gender-based voice switching (male/female, if supported).
+
+- Input validation and device compatibility checks.
+
+- The app was developed with simplicity, functionality, and extensibility in mind.
+
 
 
 ## Objectives
@@ -28,7 +32,7 @@ The project is clean, modular, and meets all evaluation points mentioned in the 
 ## Features
 
 - **Language Dropdown**  
-  Select from `en-US`, `fr-FR`, `es-ES`, `de-DE`
+  Select from `en-US(English)`, `fr-FR (French)`, `es-ES(Spainish)`, `de-DE(German)`
 
 - **Text Field + Validation**  
   Users can enter any sentence.  
